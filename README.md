@@ -1,7 +1,6 @@
 # BabaIsYou-Release
 
-Germán Alejandre Campos
-Alejandro Fortes Hidalgo
+Germán Alejandre Campos || Alejandro Fortes Hidalgo
 
 -----------------------------
 FUNCIONALIDADES IMPLEMENTADAS
